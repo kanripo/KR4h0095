@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:26.424518
+#+DATE: 2020-03-31 11:42:27.526913
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR4h0095_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -440,7 +440,7 @@
 　　蝴蝶弄和風飛花不知晚王孫尋芳草歩歩忘路逺况¶
 我愛青山涉趣皆遊踐縈廻必中路隂晦陽復顯古岸¶
 生新泉霞峯映雪巘交枝花色異竒石雲根淺碧洞志¶
-忘歸紫芝行可搴方嗤𥞇叔夜林臥正沈湎¶
+忘歸紫芝行可搴方嗤嵇叔夜林臥正沈湎¶
 ¶
 　　詔許昌崔明府拜補闕¶
 ¶

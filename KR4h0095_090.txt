@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:27.133002
+#+DATE: 2020-03-31 11:42:28.314428
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 90
 <pb:KR4h0095_WYG_090-1a>¶
 　　欽定四庫全書¶
@@ -563,7 +563,7 @@
 　　秘書省有賀監知章草題詩筆力遒徤風尚高¶
 逺拂塵尋玩因有此作¶
 ¶
-　　越谿漁客賀知章任逹憐才愛酒狂鸂𪄠葦花隨釣艇¶
+　　越谿漁客賀知章任逹憐才愛酒狂鸂鶒葦花隨釣艇¶
 <pb:KR4h0095_WYG_090-22a>¶
 蛤蜊菰葉夢横塘幾年涼月扣華省一宿秋風憶故鄉¶
 榮路脱身終自得福庭回首莫相忘出籠鸞鶴歸遼海¶

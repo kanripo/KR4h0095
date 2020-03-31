@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:26.926865
+#+DATE: 2020-03-31 11:42:28.107756
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 69
 <pb:KR4h0095_WYG_069-1a>¶
 　　欽定四庫全書¶
@@ -63,7 +63,7 @@
 　　商於逢友人¶
 ¶
 　　行役何時了年年骨肉分春風乗漢棹雪路入商雲水¶
-險谿難定林寒鳥異羣相逄聊坐石啼&KR0924;語中聞¶
+險谿難定林寒鳥異羣相逄聊坐石啼狖語中聞¶
 ¶
 <pb:KR4h0095_WYG_069-3a>¶
 　　劉得仁¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:27.246256
+#+DATE: 2020-03-31 11:42:28.449371
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 98
 <pb:KR4h0095_WYG_098-1a>¶
 　　欽定四庫全書¶
@@ -479,7 +479,7 @@
 　　列宿光三署仙郎直五宵時衣天子賜厨膳太官調長¶
 樂鐘應近明光漏不遥黄門持被覆侍女捧香燒筆為¶
 題詩㸃燈縁起草挑竹喧交砌葉栁嚲拂牕條粉署榮¶
-新命霜臺憶舊僚名香播蘭&KR0525;價重藴瓊瑶擊水翻蒼¶
+新命霜臺憶舊僚名香播蘭蕙價重藴瓊瑶擊水翻蒼¶
 <pb:KR4h0095_WYG_098-19b>¶
 海搏風透赤霄微才喜同舍何幸忽間韶¶
 ¶

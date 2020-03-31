@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:27.073217
+#+DATE: 2020-03-31 11:42:28.251800
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 83
 <pb:KR4h0095_WYG_083-1a>¶
 　　欽定四庫全書¶
@@ -391,7 +391,7 @@
 ¶
 <pb:KR4h0095_WYG_083-15b>¶
 　　江上巍巍萬歲樓不知經厯幾千秋年年喜見山長在¶
-日日悲看水獨流𤠔犺何曾離莫嶺鸕鷀空自泛寒洲¶
+日日悲看水獨流猿犺何曾離莫嶺鸕鷀空自泛寒洲¶
 誰堪登望雲烟裏向晚茫茫發旅愁¶
 ¶
 ¶

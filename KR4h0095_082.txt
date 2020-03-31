@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:27.064364
+#+DATE: 2020-03-31 11:42:28.242419
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 82
 <pb:KR4h0095_WYG_082-1a>¶
 　　欽定四庫全書¶
@@ -133,7 +133,7 @@
 石上泉聲帶雨秋鳥向歌筵來度曲雲依帳殿結為樓¶
 微臣昔沗方明(莊子作方歅)御今日還陪八駿遊¶
 ¶
-　　蘇&KR0347;¶
+　　蘇瓌¶
 ¶
 　　興慶池侍宴應制¶
 ¶

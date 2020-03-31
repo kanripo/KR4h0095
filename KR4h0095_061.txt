@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:26.828994
+#+DATE: 2020-03-31 11:42:28.023826
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 61
 <pb:KR4h0095_WYG_061-1a>¶
 　　欽定四庫全書¶
@@ -300,7 +300,7 @@
 西函谷路城北大陽津日暮征鞍去東郊一片塵¶
 ¶
 <pb:KR4h0095_WYG_061-11b>¶
-　　奉送李太保兼御史大夫𠑽渭北節度使即太¶
+　　奉送李太保兼御史大夫充渭北節度使即太¶
 尉光弼弟¶
 ¶
 　　詔出未央宫登壇近總戎上公周太保副相漢司空弓¶

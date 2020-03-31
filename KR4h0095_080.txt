@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:27.038521
+#+DATE: 2020-03-31 11:42:28.218016
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 80
 <pb:KR4h0095_WYG_080-1a>¶
 　　欽定四庫全書¶
@@ -562,7 +562,7 @@
 　　袐殿臨軒日和鑾返正年兩班文武盛百辟羽儀全霜¶
 漏清中禁風旗拂曙天門嚴新契勘仗入邇承宣玉几¶
 <pb:KR4h0095_WYG_080-22a>¶
-當紅旭金爐縱碧煙對𫾻稱法吏贊引出宫鈿言動揮¶
+當紅旭金爐縱碧煙對敡稱法吏贊引出宫鈿言動揮¶
 毫疾威容執簿專壽山晴靉靆顥氣暖連延禮有鴛鸞¶
 集恩無雨露偏小臣叨備位歌詠㤗階前¶
 ¶

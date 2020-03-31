@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:27.105486
+#+DATE: 2020-03-31 11:42:28.285638
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 87
 <pb:KR4h0095_WYG_087-1a>¶
 　　欽定四庫全書¶
@@ -402,7 +402,7 @@
 ¶
 　　送葉秀才¶
 ¶
-　　快騎𤧚瓏刻玉羈河梁返照上征衣層氷春近蟠龍起¶
+　　快騎璁瓏刻玉羈河梁返照上征衣層氷春近蟠龍起¶
 <pb:KR4h0095_WYG_087-16a>¶
 九澤雲閒獨鶴飛行想北山清夢斷重游西洛故人稀¶
 漢廷狗監深知己有日前驅負弩歸¶

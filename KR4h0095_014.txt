@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:26.435316
+#+DATE: 2020-03-31 11:42:27.537709
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR4h0095_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -506,7 +506,7 @@
 日曾一櫛對書常懶讀社臘㑹高年山川恣逺矚明世¶
 方選士中朝懸美禄除書忽到門冠帶便拘束愧忝郎¶
 署跡謬蒙君子録俯仰垂華纓飄䬙翔輕轂行將親友¶
-別戀此西澗曲逺峯明夕川夏雨生衆緑&KR0826;風飄野路¶
+別戀此西澗曲逺峯明夕川夏雨生衆緑迅風飄野路¶
 迴首不遑宿明晨下煙閣白雲在幽谷¶
 ¶
 <pb:KR4h0095_WYG_014-21b>¶

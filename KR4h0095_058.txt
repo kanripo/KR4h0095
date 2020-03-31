@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:26.806333
+#+DATE: 2020-03-31 11:42:27.996738
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 58
 <pb:KR4h0095_WYG_058-1a>¶
 　　欽定四庫全書¶
@@ -173,7 +173,7 @@
 ¶
 　　盧巴驛聞張御史張判官欲到不得待留贈之¶
 ¶
-　　旅&KR0481;南方逺傳聞北使來舊庭知玉樹同浦識珠胎白¶
+　　旅竄南方逺傳聞北使來舊庭知玉樹同浦識珠胎白¶
 髪因愁變丹心託夢廻皇恩若可再為憶不然灰¶
 ¶
 　　廣州蕭都督入朝過岳州宴餞(得冬字)¶

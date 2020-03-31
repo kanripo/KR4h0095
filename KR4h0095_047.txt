@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:26.710586
+#+DATE: 2020-03-31 11:42:27.865587
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 47
 <pb:KR4h0095_WYG_047-1a>¶
 　　欽定四庫全書¶
@@ -128,7 +128,7 @@
 　　日落沙明天倒開波揺石動水縈迴輕舟汎月尋谿轉¶
 疑是山隂雪後來¶
 ¶
-　　陪族叔邢部侍郎&KR0110;及中書舎人賈至遊洞庭¶
+　　陪族叔邢部侍郎曄及中書舎人賈至遊洞庭¶
 湖三首¶
 ¶
 <pb:KR4h0095_WYG_047-5b>¶

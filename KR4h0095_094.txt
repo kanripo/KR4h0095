@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:27.188531
+#+DATE: 2020-03-31 11:42:28.374423
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 94
 <pb:KR4h0095_WYG_094-1a>¶
 　　欽定四庫全書¶
@@ -472,7 +472,7 @@
 　　同王員外隴城絶句¶
 ¶
 　　三軍版築脱金刀黎庶飜慙將士勞不憶新城連嶂起¶
-唯驚𦘕角入雲高¶
+唯驚畫角入雲高¶
 ¶
 　　晚歸嚴明府題門¶
 ¶

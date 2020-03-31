@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 唐詩品彙
-#+DATE: 2020-03-31 11:42:26.728552
+#+DATE: 2020-03-31 11:42:27.896413
 #+PROPERTY: ID KR4h0095
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 49
 <pb:KR4h0095_WYG_049-1a>¶
 　　欽定四庫全書¶
@@ -303,7 +303,7 @@
 ¶
 　　江南曲¶
 ¶
-　　長樂花枝雨㸃銷江城日暮好相邀青樓不閉葳&KR0331;鎻¶
+　　長樂花枝雨㸃銷江城日暮好相邀青樓不閉葳𬎼鎻¶
 <pb:KR4h0095_WYG_049-11b>¶
 緑水迴通宛轉橋¶
 ¶
